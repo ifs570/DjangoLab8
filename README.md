@@ -121,95 +121,93 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
 
 - Añadimos los cors dentro de MiddleWARE
 
-    - ![python](.\img\img4.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img4.PNG)
 
 - Agregamos una configuración para saber que servidor puede conectarse
 
-    - ![python](.\img\img5.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img5.PNG)
 
 - Ejecutamos y cambia la ruta inicial
 
-    - ![python](.\img\img15.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img15.PNG)
   
 - Entramos a la ruta http://127.0.0.1:8000/api/projects/" Podemos observar que la base de datos esta vacia, por que me devuelve un arreglo vacío.
 
-    - ![python](.\img\img16.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img16.PNG)
 
 
 - Creamos peticiones POST.
 
-    - ![python](.\img\img17.PNG)
-    - ![python](.\img\img18.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img17.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img18.PNG)
 
 - Ahora para realizar una peticion GET, PUT y DELETE instalamos thunder client
 
-    - ![python](.\img\img19.PNG)
-    - ![python](.\img\img20.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img19.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img20.PNG)
 
 - En settings.py
 
-    - ![python](.\img\img21.PNG)
-    - ![python](.\img\img22.PNG)
-    - ![python](.\img\img23.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img21.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img22.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img23.PNG)
 
 - En producción usaremos PostgreSQL, usaremos la version gratuita
 
-    - ![python](.\img\img24.PNG)
-    - ![python](.\img\img25.PNG)
-    - ![python](.\img\img26.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img24.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img25.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img26.PNG)
 
 - Instalamos dependencias necesarias
 
-    -  ![python](.\img\img27.PNG)
-    -  ![python](.\img\img28.PNG)
-    -  ![python](.\img\img29.PNG)
+    -  ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img27.PNG)
+    -  ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img28.PNG)
+    -  ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img29.PNG)
 
 - En desarrollo usaremos db.sqlite3 y en producción postgres
 
 
-    -  ![python](.\img\img30.PNG)
+    -  ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img30.PNG)
 
 - Agregamos algunos cambios 
 
-    - ![python](.\img\img31.PNG)
-    - ![python](.\img\img32.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img31.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img32.PNG)
 
 - Necesitamos ejecutar una serie de comandos para construir nuestra aplicación. Podemos lograr esto con un script de compilación. Creamos un script llamado build.sh en la raíz de su repositorio:
 
-    - ![python](.\img\img33.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img33.PNG)
 
 - Asegúremos de que el script sea ejecutable antes de registrarlo en Git:
 
-    - ![python](.\img\img34.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img34.PNG)
 
 - Vamos a ejecutar nuestra aplicación con gunicorn
 
-    - ![python](.\img\img35.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img35.PNG)
 
 - Creamos variables de entorno
 
-    - ![python](.\img\img36.PNG)
-    - ![python](.\img\img37.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img36.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img37.PNG)
 
 - Generamos la url
 
-    - ![python](.\img\img38.PNG)
-    - ![python](.\img\img39.PNG)
-    - ![python](.\img\img40.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img38.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img39.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img40.PNG)
 
 - Vemos la url e ingresamos
 
-    - ![python](.\img\img41.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img41.PNG)
 
 - https://djangorestcrud-62c4.onrender.com
 - Al abrir la url nos da
 
-    - ![python](.\img\img42.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img42.PNG)
 
 #
 
-
-#
 
 ## REFERENCIAS
 - Documentación: https://www.django-rest-framework.org/
