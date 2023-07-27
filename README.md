@@ -112,6 +112,9 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
     - ![python](./img/img1.PNG)
     - ![python](./img/img1.PNG)
     - ![python](img/img1.PNG)
+    - ![python](drfsimplecrud/img/img1.PNG)
+    - ![python](./drfsimplecrud/img/img1.PNG)
+    - ![python](master/drfsimplecrud/img/img1.PNG)
 
 - Instalamos los cors
 
