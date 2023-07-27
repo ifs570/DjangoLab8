@@ -193,7 +193,7 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
 
 - Generamos la url
 
-    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img38.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/IMG38.PNG)
     - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img39.PNG)
     - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img40.PNG)
 
