@@ -111,10 +111,11 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
 
     - ![python](./img/img1.PNG)
     - ![python](./img/img1.PNG)
+    - ![python](img/img1.PNG)
 
 - Instalamos los cors
 
-    - ![python](.\img\img2.PNG) 
+    - ![python](./img/img2.PNG) 
 
 - Añadimos Rest_Framwork y cors dentro de settings.py
 
