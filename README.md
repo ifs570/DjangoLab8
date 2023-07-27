@@ -110,15 +110,17 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
 - Primero instalamos el Django Rest Framework
 
     - ![python](./img/img1.PNG)
-    - ![python](./img/img1.PNG)
+    - ![python](/img/img1.PNG)
+    - ![python](https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img1.PNG)
     - ![python](img/img1.PNG)
     - ![python](drfsimplecrud/img/img1.PNG)
     - ![python](./drfsimplecrud/img/img1.PNG)
-    - ![python](master/drfsimplecrud/img/img1.PNG)
+    - ![python](DjangoLab8/blob/master/drfsimplecrud/img/img1.PNG)
+    - https://github.com/ifs570/DjangoLab8/blob/master/drfsimplecrud/img/img1.PNG
 
 - Instalamos los cors
 
-    - ![python](./img/img2.PNG) 
+    - ![python](img/img2.PNG) 
 
 - Añadimos Rest_Framwork y cors dentro de settings.py
 
