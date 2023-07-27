@@ -110,6 +110,7 @@ start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperatur
 - Primero instalamos el Django Rest Framework
 
     - ![python](./img/img1.PNG)
+    - ![python](./img/img1.PNG)
 
 - Instalamos los cors
 
